@@ -1,4 +1,4 @@
-![dsa-new](https://github.com/user-attachments/assets/cabddd33-1b53-4eb9-b399-617bff4db56d)
+![dsa image](https://github.com/user-attachments/assets/4df24912-0b7d-407a-a939-c05bedb201ab)
 
 
 # DSA-COMPLETION-
