@@ -1,2 +1,29 @@
 # DSA-COMPLETION-
 THIS REPO IS MADE TO COMPLETE DSA CONSISTANTLY AND TRACKABLY 
+## 🔥 Challenge Progress & Status
+
+BY TRACKING REGULARLY COMPLETITION WILL BE VERY STRUCTURED
+
+| Status | Total Days | Completed | 
+| :---:  |    :---:   |   :---:   |  
+|  ✅    |     50     |     2     |   
+
+[![Days Completed](https://img.shields.io/badge/Progress-2%2F50%20Days-red)](link-to-your-apna-college-course)
+
+---
+
+## 📚 Repository Structure
+
+All solutions are meticulously organized by day and topic, following a consistent naming convention to ensure clarity and easy navigation.
+
+The file structure is: `50-Days-DSA-Challenge/DayXX_TopicName.java`
+## 💡 Key Learnings
+
+This journey aims to cover fundamental to advanced concepts, including:
+
+* **Core Concepts:** Time and Space Complexity Analysis ($O(n)$ notation).
+* **Fundamental DS:** Arrays, Linked Lists, Stacks, Queues, Hashmaps (Sets & Maps).
+* **Advanced DS:** Trees, Heaps, Tries, and Graphs.
+* **Algorithms:** Sorting (Merge, Quick, Heap), Searching, Greedy, Dynamic Programming, and Graph Algorithms (BFS, DFS, Dijkstra's).
+
+---
