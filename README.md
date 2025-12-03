@@ -1,3 +1,6 @@
+![dsa-new](https://github.com/user-attachments/assets/cabddd33-1b53-4eb9-b399-617bff4db56d)
+
+
 # DSA-COMPLETION-
 THIS REPO IS MADE TO COMPLETE DSA CONSISTANTLY AND TRACKABLY 
 ## 🔥 Challenge Progress & Status
