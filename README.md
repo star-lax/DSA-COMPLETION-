@@ -6,7 +6,7 @@ BY TRACKING REGULARLY COMPLETITION WILL BE VERY STRUCTURED
 
 | Status | Total Days | Completed | 
 | :---:  |    :---:   |   :---:   |  
-|  ✅    |     50     |     2     |   
+|  ✅    |     50     |     3    |   
 
 [![Days Completed](https://img.shields.io/badge/Progress-2%2F50%20Days-red)](link-to-your-apna-college-course)
 
