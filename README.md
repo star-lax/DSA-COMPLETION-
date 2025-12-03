@@ -2,7 +2,7 @@
 
 
 # DSA-COMPLETION-
-THIS REPO IS MADE TO COMPLETE DSA CONSISTANTLY AND TRACKABLY 
+THIS REPO IS MADE TO COMPLETE DSA CONSISTANTLY AND TRACKABLE
 ## 🔥 Challenge Progress & Status
 
 BY TRACKING REGULARLY COMPLETITION WILL BE VERY STRUCTURED
@@ -15,11 +15,6 @@ BY TRACKING REGULARLY COMPLETITION WILL BE VERY STRUCTURED
 
 ---
 
-## 📚 Repository Structure
-
-All solutions are meticulously organized by day and topic, following a consistent naming convention to ensure clarity and easy navigation.
-
-The file structure is: `50-Days-DSA-Challenge/DayXX_TopicName.java`
 ## 💡 Key Learnings
 
 This journey aims to cover fundamental to advanced concepts, including:
